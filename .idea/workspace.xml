@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eae97a28-e19e-48b6-8bd4-6a8f3b5535f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/bootstrap-reboot.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
