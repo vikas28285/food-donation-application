@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eae97a28-e19e-48b6-8bd4-6a8f3b5535f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/guru/springframework/SpringBootWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/guru/springframework/SpringBootWebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/guru/springframework/SpringBootWebApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/guru/springframework/SpringBootWebApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-guru.springframework.SpringBootWebApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-guru.springframework.SpringBootWebApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-guru.springframework.repositories.ProductRepositoryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-guru.springframework.repositories.ProductRepositoryTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/guru.springframework.SpringBootWebApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/guru.springframework.SpringBootWebApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/guru.springframework.repositories.ProductRepositoryTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/guru.springframework.repositories.ProductRepositoryTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-1.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/webapp-1.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-1/WEB-INF/classes/guru/springframework/SpringBootWebApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/webapp-1/WEB-INF/classes/guru/springframework/SpringBootWebApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-1/WEB-INF/view/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="eae97a28-e19e-48b6-8bd4-6a8f3b5535f9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,25 +80,25 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="569" y="329" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.822@0.23.1440.822" timestamp="1585701580686" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1585752657303">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1585759130283">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585752657303" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585759130283" />
     <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1585752574474" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1585752657302">
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1585759130282">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585752657302" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585759130282" />
     <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1585752574473" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1585752657301">
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1585759130281">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585752657301" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585759130281" />
     <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1585752574473" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1585752657302">
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1585759130282">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585752657302" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585759130282" />
     <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1585752574474" />
     <state x="221" y="23" width="1024" height="822" key="SettingsEditor" timestamp="1585739454547">
       <screen x="0" y="23" width="1440" height="822" />
